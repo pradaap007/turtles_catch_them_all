@@ -1,0 +1,42 @@
+[0.016s] Invoking command in '/home/praveen/turtlesim_project/build/bring_up': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake /home/praveen/turtlesim_project/src/bring_up -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/praveen/turtlesim_project/install/bring_up
+[0.094s] -- The C compiler identification is GNU 11.4.0
+[0.160s] -- The CXX compiler identification is GNU 11.4.0
+[0.169s] -- Detecting C compiler ABI info
+[0.241s] -- Detecting C compiler ABI info - done
+[0.246s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.247s] -- Detecting C compile features
+[0.247s] -- Detecting C compile features - done
+[0.250s] -- Detecting CXX compiler ABI info
+[0.329s] -- Detecting CXX compiler ABI info - done
+[0.334s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.334s] -- Detecting CXX compile features
+[0.335s] -- Detecting CXX compile features - done
+[0.338s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.467s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.519s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.603s] -- Configuring done
+[0.606s] -- Generating done
+[0.606s] -- Build files have been written to: /home/praveen/turtlesim_project/build/bring_up
+[0.611s] Invoked command in '/home/praveen/turtlesim_project/build/bring_up' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake /home/praveen/turtlesim_project/src/bring_up -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/praveen/turtlesim_project/install/bring_up
+[0.613s] Invoking command in '/home/praveen/turtlesim_project/build/bring_up': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake --build /home/praveen/turtlesim_project/build/bring_up -- -j12 -l12
+[0.652s] Invoked command in '/home/praveen/turtlesim_project/build/bring_up' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake --build /home/praveen/turtlesim_project/build/bring_up -- -j12 -l12
+[0.684s] Invoking command in '/home/praveen/turtlesim_project/build/bring_up': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake --install /home/praveen/turtlesim_project/build/bring_up
+[0.691s] -- Install configuration: ""
+[0.692s] -- Execute custom install script
+[0.692s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/launch/turtlebringup.launch.py
+[0.701s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/ament_index/resource_index/package_run_dependencies/bring_up
+[0.710s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/ament_index/resource_index/parent_prefix_path/bring_up
+[0.718s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/ament_prefix_path.sh
+[0.725s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/ament_prefix_path.dsv
+[0.734s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/path.sh
+[0.742s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/path.dsv
+[0.750s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.bash
+[0.758s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.sh
+[0.766s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.zsh
+[0.774s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.dsv
+[0.782s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/package.dsv
+[0.790s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/ament_index/resource_index/packages/bring_up
+[0.799s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/cmake/bring_upConfig.cmake
+[0.809s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/cmake/bring_upConfig-version.cmake
+[0.817s] -- Symlinking: /home/praveen/turtlesim_project/install/bring_up/share/bring_up/package.xml
+[0.827s] Invoked command in '/home/praveen/turtlesim_project/build/bring_up' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake --install /home/praveen/turtlesim_project/build/bring_up

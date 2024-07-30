@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/praveen/turtlesim_project/build/turtle_catch_them_all",
+        "/home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages",
+        "/home/praveen/turtlesim_project/install/my_turtle_interface/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

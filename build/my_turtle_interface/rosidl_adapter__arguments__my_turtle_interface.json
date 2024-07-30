@@ -1,0 +1,9 @@
+{
+  "package_name": "my_turtle_interface",
+  "non_idl_tuples": [
+    "/home/praveen/turtlesim_project/src/my_turtle_interface:msg/TurtleProject.msg",
+    "/home/praveen/turtlesim_project/src/my_turtle_interface:msg/TurtleProjectArray.msg",
+    "/home/praveen/turtlesim_project/src/my_turtle_interface:srv/TurtleKiller.srv",
+    "/home/praveen/turtlesim_project/src/my_turtle_interface:srv/CatchTurtle.srv"
+  ]
+}

@@ -1,0 +1,16 @@
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/launch/turtlebringup.launch.py
+/home/praveen/turtlesim_project/install/bring_up/share/ament_index/resource_index/package_run_dependencies/bring_up
+/home/praveen/turtlesim_project/install/bring_up/share/ament_index/resource_index/parent_prefix_path/bring_up
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/ament_prefix_path.sh
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/ament_prefix_path.dsv
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/path.sh
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/environment/path.dsv
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.bash
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.sh
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.zsh
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/local_setup.dsv
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/package.dsv
+/home/praveen/turtlesim_project/install/bring_up/share/ament_index/resource_index/packages/bring_up
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/cmake/bring_upConfig.cmake
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/cmake/bring_upConfig-version.cmake
+/home/praveen/turtlesim_project/install/bring_up/share/bring_up/package.xml

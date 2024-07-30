@@ -1,0 +1,80 @@
+[0.009s] Invoking command in '/home/praveen/turtlesim_project/build/my_turtle_interface': CMAKE_PREFIX_PATH=/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake --build /home/praveen/turtlesim_project/build/my_turtle_interface -- -j12 -l12
+[0.029s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.119s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.124s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.125s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.128s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.151s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.352s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.487s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.665s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.682s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.699s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.699s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.699s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.713s] -- Configuring done
+[0.738s] -- Generating done
+[0.741s] -- Build files have been written to: /home/praveen/turtlesim_project/build/my_turtle_interface
+[0.762s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.771s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[0.778s] [  5%] Built target ament_cmake_python_symlink_my_turtle_interface
+[0.977s] [35m[1mConsolidate compiler generated dependencies of target my_turtle_interface__rosidl_generator_c[0m
+[0.977s] running egg_info
+[0.978s] writing my_turtle_interface.egg-info/PKG-INFO
+[0.978s] writing dependency_links to my_turtle_interface.egg-info/dependency_links.txt
+[0.978s] writing top-level names to my_turtle_interface.egg-info/top_level.txt
+[0.980s] reading manifest file 'my_turtle_interface.egg-info/SOURCES.txt'
+[0.980s] writing manifest file 'my_turtle_interface.egg-info/SOURCES.txt'
+[0.983s] [  5%] Built target my_turtle_interface__cpp
+[0.987s] [ 10%] [32mBuilding C object CMakeFiles/my_turtle_interface__rosidl_generator_c.dir/rosidl_generator_c/my_turtle_interface/msg/detail/turtle_project_array__functions.c.o[0m
+[0.987s] [ 10%] [32mBuilding C object CMakeFiles/my_turtle_interface__rosidl_generator_c.dir/rosidl_generator_c/my_turtle_interface/msg/detail/turtle_project__functions.c.o[0m
+[0.992s] [ 17%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[0.992s] [ 17%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[0.992s] [ 17%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[0.999s] In file included from [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_generator_c/my_turtle_interface/msg/detail/turtle_project_array__functions.h:19[m[K,
+[0.999s]                  from [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_generator_c/my_turtle_interface/msg/detail/turtle_project_array__functions.c:4[m[K:
+[0.999s] [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_generator_c/my_turtle_interface/msg/detail/turtle_project_array__struct.h:22:10:[m[K [01;31m[Kfatal error: [m[Kmy_turtle_interface/msg/detail/turtle__struct.h: No such file or directory
+[0.999s]    22 | #include [01;31m[K"my_turtle_interface/msg/detail/turtle__struct.h"[m[K
+[0.999s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.999s] compilation terminated.
+[1.000s] gmake[2]: *** [CMakeFiles/my_turtle_interface__rosidl_generator_c.dir/build.make:135: CMakeFiles/my_turtle_interface__rosidl_generator_c.dir/rosidl_generator_c/my_turtle_interface/msg/detail/turtle_project_array__functions.c.o] Error 1
+[1.000s] gmake[2]: *** Waiting for unfinished jobs....
+[1.010s] [ 17%] Built target ament_cmake_python_build_my_turtle_interface_egg
+[1.019s] gmake[1]: *** [CMakeFiles/Makefile2:213: CMakeFiles/my_turtle_interface__rosidl_generator_c.dir/all] Error 2
+[1.019s] gmake[1]: *** Waiting for unfinished jobs....
+[1.169s] [35m[1mConsolidate compiler generated dependencies of target my_turtle_interface__rosidl_typesupport_cpp[0m
+[1.181s] [ 23%] [32mBuilding CXX object CMakeFiles/my_turtle_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/my_turtle_interface/msg/turtle_project__type_support.cpp.o[0m
+[1.182s] [ 23%] [32mBuilding CXX object CMakeFiles/my_turtle_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/my_turtle_interface/msg/turtle_project_array__type_support.cpp.o[0m
+[1.182s] [35m[1mConsolidate compiler generated dependencies of target my_turtle_interface__rosidl_typesupport_introspection_cpp[0m
+[1.190s] [35m[1mConsolidate compiler generated dependencies of target my_turtle_interface__rosidl_typesupport_fastrtps_cpp[0m
+[1.194s] [ 28%] [32mBuilding CXX object CMakeFiles/my_turtle_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/my_turtle_interface/msg/detail/turtle_project__type_support.cpp.o[0m
+[1.194s] [ 28%] [32mBuilding CXX object CMakeFiles/my_turtle_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/my_turtle_interface/msg/detail/turtle_project_array__type_support.cpp.o[0m
+[1.203s] [ 33%] [32mBuilding CXX object CMakeFiles/my_turtle_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/my_turtle_interface/msg/detail/dds_fastrtps/turtle_project_array__type_support.cpp.o[0m
+[1.203s] [ 33%] [32mBuilding CXX object CMakeFiles/my_turtle_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/my_turtle_interface/msg/detail/dds_fastrtps/turtle_project__type_support.cpp.o[0m
+[1.225s] In file included from [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_typesupport_cpp/my_turtle_interface/msg/turtle_project_array__type_support.cpp:7[m[K:
+[1.225s] [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_generator_cpp/my_turtle_interface/msg/detail/turtle_project_array__struct.hpp:20:10:[m[K [01;31m[Kfatal error: [m[Kmy_turtle_interface/msg/detail/turtle__struct.hpp: No such file or directory
+[1.225s]    20 | #include [01;31m[K"my_turtle_interface/msg/detail/turtle__struct.hpp"[m[K
+[1.225s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.225s] compilation terminated.
+[1.227s] gmake[2]: *** [CMakeFiles/my_turtle_interface__rosidl_typesupport_cpp.dir/build.make:104: CMakeFiles/my_turtle_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/my_turtle_interface/msg/turtle_project_array__type_support.cpp.o] Error 1
+[1.227s] gmake[2]: *** Waiting for unfinished jobs....
+[1.245s] In file included from [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_typesupport_introspection_cpp/my_turtle_interface/msg/detail/turtle_project_array__type_support.cpp:12[m[K:
+[1.245s] [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_generator_cpp/my_turtle_interface/msg/detail/turtle_project_array__struct.hpp:20:10:[m[K [01;31m[Kfatal error: [m[Kmy_turtle_interface/msg/detail/turtle__struct.hpp: No such file or directory
+[1.245s]    20 | #include [01;31m[K"my_turtle_interface/msg/detail/turtle__struct.hpp"[m[K
+[1.245s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.245s] compilation terminated.
+[1.246s] gmake[2]: *** [CMakeFiles/my_turtle_interface__rosidl_typesupport_introspection_cpp.dir/build.make:112: CMakeFiles/my_turtle_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/my_turtle_interface/msg/detail/turtle_project_array__type_support.cpp.o] Error 1
+[1.246s] gmake[2]: *** Waiting for unfinished jobs....
+[1.248s] In file included from [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_typesupport_fastrtps_cpp/my_turtle_interface/msg/detail/turtle_project_array__rosidl_typesupport_fastrtps_cpp.hpp:11[m[K,
+[1.248s]                  from [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_typesupport_fastrtps_cpp/my_turtle_interface/msg/detail/dds_fastrtps/turtle_project_array__type_support.cpp:4[m[K:
+[1.248s] [01m[K/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_generator_cpp/my_turtle_interface/msg/detail/turtle_project_array__struct.hpp:20:10:[m[K [01;31m[Kfatal error: [m[Kmy_turtle_interface/msg/detail/turtle__struct.hpp: No such file or directory
+[1.248s]    20 | #include [01;31m[K"my_turtle_interface/msg/detail/turtle__struct.hpp"[m[K
+[1.248s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.248s] compilation terminated.
+[1.249s] gmake[2]: *** [CMakeFiles/my_turtle_interface__rosidl_typesupport_fastrtps_cpp.dir/build.make:112: CMakeFiles/my_turtle_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/my_turtle_interface/msg/detail/dds_fastrtps/turtle_project_array__type_support.cpp.o] Error 1
+[1.249s] gmake[2]: *** Waiting for unfinished jobs....
+[1.368s] gmake[1]: *** [CMakeFiles/Makefile2:395: CMakeFiles/my_turtle_interface__rosidl_typesupport_cpp.dir/all] Error 2
+[1.459s] gmake[1]: *** [CMakeFiles/Makefile2:369: CMakeFiles/my_turtle_interface__rosidl_typesupport_introspection_cpp.dir/all] Error 2
+[1.478s] gmake[1]: *** [CMakeFiles/Makefile2:343: CMakeFiles/my_turtle_interface__rosidl_typesupport_fastrtps_cpp.dir/all] Error 2
+[1.478s] gmake: *** [Makefile:146: all] Error 2
+[1.480s] Invoked command in '/home/praveen/turtlesim_project/build/my_turtle_interface' returned '2': CMAKE_PREFIX_PATH=/home/praveen/turtlesim_project/install/turtle_catch_them_all:/opt/ros/humble /usr/bin/cmake --build /home/praveen/turtlesim_project/build/my_turtle_interface -- -j12 -l12

@@ -1,0 +1,25 @@
+{
+  "package_name": "my_turtle_interface",
+  "output_dir": "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_typesupport_introspection_cpp/my_turtle_interface",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface:msg/TurtleProject.idl",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface:msg/TurtleProjectArray.idl",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface:srv/TurtleKiller.idl",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface:srv/CatchTurtle.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface/msg/TurtleProject.idl",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface/msg/TurtleProjectArray.idl",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface/srv/TurtleKiller.idl",
+    "/home/praveen/turtlesim_project/build/my_turtle_interface/rosidl_adapter/my_turtle_interface/srv/CatchTurtle.idl"
+  ]
+}

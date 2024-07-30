@@ -1,0 +1,56 @@
+[0.136s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/praveen/turtlesim_project']
+[0.136s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/praveen/turtlesim_project'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x749eba244ac0>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x749eba34cdf0>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x749eba34cdf0>>)
+[0.375s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.376s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.376s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.376s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.376s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.376s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/praveen/turtlesim_project'
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extensions ['ignore', 'ignore_ament_install']
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'ignore'
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'ignore_ament_install'
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extensions ['colcon_pkg']
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'colcon_pkg'
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extensions ['colcon_meta']
+[0.376s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'colcon_meta'
+[0.377s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extensions ['ros']
+[0.377s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'ros'
+[0.394s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extensions ['cmake', 'python']
+[0.395s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'cmake'
+[0.395s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'python'
+[0.395s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extensions ['python_setup_py']
+[0.395s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project) by extension 'python_setup_py'
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/build) by extensions ['ignore', 'ignore_ament_install']
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/build) by extension 'ignore'
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/build) ignored
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/install) by extensions ['ignore', 'ignore_ament_install']
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/install) by extension 'ignore'
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/install) ignored
+[0.396s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/log) by extensions ['ignore', 'ignore_ament_install']
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/log) by extension 'ignore'
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/log) ignored
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extensions ['ignore', 'ignore_ament_install']
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'ignore'
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'ignore_ament_install'
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extensions ['colcon_pkg']
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'colcon_pkg'
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extensions ['colcon_meta']
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'colcon_meta'
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extensions ['ros']
+[0.397s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'ros'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extensions ['cmake', 'python']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'cmake'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'python'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extensions ['python_setup_py']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src) by extension 'python_setup_py'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extensions ['ignore', 'ignore_ament_install']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extension 'ignore'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extension 'ignore_ament_install'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extensions ['colcon_pkg']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extension 'colcon_pkg'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extensions ['colcon_meta']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extension 'colcon_meta'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extensions ['ros']
+[0.399s] Level 1:colcon.colcon_core.package_identification:_identify(/home/praveen/turtlesim_project/src/turtle_catch_them_all) by extension 'ros'
+[0.402s] DEBUG:colcon.colcon_core.package_identification:Package '/home/praveen/turtlesim_project/src/turtle_catch_them_all' with type 'ros.ament_python' and name 'turtle_catch_them_all'
+[0.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

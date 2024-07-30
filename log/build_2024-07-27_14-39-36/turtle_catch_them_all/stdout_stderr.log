@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating turtle_catch_them_all.egg-info
+writing turtle_catch_them_all.egg-info/PKG-INFO
+writing dependency_links to turtle_catch_them_all.egg-info/dependency_links.txt
+writing entry points to turtle_catch_them_all.egg-info/entry_points.txt
+writing requirements to turtle_catch_them_all.egg-info/requires.txt
+writing top-level names to turtle_catch_them_all.egg-info/top_level.txt
+writing manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+reading manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+writing manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages/turtle-catch-them-all.egg-link (link to .)
+Installing turtlecatch script to /home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/turtle_catch_them_all
+
+Installed /home/praveen/turtlesim_project/build/turtle_catch_them_all
+running symlink_data
+creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index
+creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index/resource_index
+creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index/resource_index/packages
+symbolically linking /home/praveen/turtlesim_project/build/turtle_catch_them_all/resource/turtle_catch_them_all -> /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index/resource_index/packages
+symbolically linking /home/praveen/turtlesim_project/build/turtle_catch_them_all/package.xml -> /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/turtle_catch_them_all

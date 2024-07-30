@@ -1,0 +1,24 @@
+[0.470s] Invoking command in '/home/praveen/turtlesim_project/build/turtle_catch_them_all': PYTHONPATH=/home/praveen/turtlesim_project/build/turtle_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/turtlesim_project/build/turtle_catch_them_all/build --no-deps symlink_data
+[0.671s] running develop
+[0.790s] running egg_info
+[0.790s] creating turtle_catch_them_all.egg-info
+[0.790s] writing turtle_catch_them_all.egg-info/PKG-INFO
+[0.790s] writing dependency_links to turtle_catch_them_all.egg-info/dependency_links.txt
+[0.790s] writing entry points to turtle_catch_them_all.egg-info/entry_points.txt
+[0.790s] writing requirements to turtle_catch_them_all.egg-info/requires.txt
+[0.790s] writing top-level names to turtle_catch_them_all.egg-info/top_level.txt
+[0.790s] writing manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+[0.792s] reading manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+[0.792s] writing manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+[0.793s] running build_ext
+[0.794s] Creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages/turtle-catch-them-all.egg-link (link to .)
+[0.794s] Installing turtlecatch script to /home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/turtle_catch_them_all
+[0.801s] 
+[0.802s] Installed /home/praveen/turtlesim_project/build/turtle_catch_them_all
+[0.802s] running symlink_data
+[0.802s] creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index
+[0.802s] creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index/resource_index
+[0.802s] creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index/resource_index/packages
+[0.802s] symbolically linking /home/praveen/turtlesim_project/build/turtle_catch_them_all/resource/turtle_catch_them_all -> /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/ament_index/resource_index/packages
+[0.802s] symbolically linking /home/praveen/turtlesim_project/build/turtle_catch_them_all/package.xml -> /home/praveen/turtlesim_project/install/turtle_catch_them_all/share/turtle_catch_them_all
+[0.828s] Invoked command in '/home/praveen/turtlesim_project/build/turtle_catch_them_all' returned '0': PYTHONPATH=/home/praveen/turtlesim_project/build/turtle_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/turtlesim_project/build/turtle_catch_them_all/build --no-deps symlink_data

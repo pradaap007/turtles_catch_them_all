@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/turtle_catch_them_all
+turtle_catch_them_all/__init__.py
+turtle_catch_them_all/spawner.py
+turtle_catch_them_all/turtle_controller.py
+turtle_catch_them_all.egg-info/PKG-INFO
+turtle_catch_them_all.egg-info/SOURCES.txt
+turtle_catch_them_all.egg-info/dependency_links.txt
+turtle_catch_them_all.egg-info/entry_points.txt
+turtle_catch_them_all.egg-info/requires.txt
+turtle_catch_them_all.egg-info/top_level.txt
+turtle_catch_them_all.egg-info/zip-safe

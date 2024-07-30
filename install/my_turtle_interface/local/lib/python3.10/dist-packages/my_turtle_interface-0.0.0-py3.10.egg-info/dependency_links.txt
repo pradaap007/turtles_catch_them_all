@@ -1,0 +1,1 @@
+/home/praveen/turtlesim_project/build/my_turtle_interface/ament_cmake_python/my_turtle_interface/my_turtle_interface.egg-info/dependency_links.txt

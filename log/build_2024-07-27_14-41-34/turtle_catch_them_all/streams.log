@@ -1,0 +1,17 @@
+[0.479s] Invoking command in '/home/praveen/turtlesim_project/build/turtle_catch_them_all': PYTHONPATH=/home/praveen/turtlesim_project/build/turtle_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/turtlesim_project/build/turtle_catch_them_all/build --no-deps symlink_data
+[0.690s] running develop
+[0.812s] running egg_info
+[0.812s] writing turtle_catch_them_all.egg-info/PKG-INFO
+[0.812s] writing dependency_links to turtle_catch_them_all.egg-info/dependency_links.txt
+[0.812s] writing entry points to turtle_catch_them_all.egg-info/entry_points.txt
+[0.813s] writing requirements to turtle_catch_them_all.egg-info/requires.txt
+[0.813s] writing top-level names to turtle_catch_them_all.egg-info/top_level.txt
+[0.814s] reading manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+[0.815s] writing manifest file 'turtle_catch_them_all.egg-info/SOURCES.txt'
+[0.816s] running build_ext
+[0.816s] Creating /home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages/turtle-catch-them-all.egg-link (link to .)
+[0.817s] Installing turtlecatch script to /home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/turtle_catch_them_all
+[0.817s] 
+[0.817s] Installed /home/praveen/turtlesim_project/build/turtle_catch_them_all
+[0.817s] running symlink_data
+[0.854s] Invoked command in '/home/praveen/turtlesim_project/build/turtle_catch_them_all' returned '0': PYTHONPATH=/home/praveen/turtlesim_project/build/turtle_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/turtlesim_project/install/turtle_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/turtlesim_project/build/turtle_catch_them_all/build --no-deps symlink_data
